@@ -1,2 +1,3 @@
 # 🛡️ Riwandi Tech | Ethical Hacking Portfolio
-Interactive web portfolio built with Vanilla HTML/CSS/JS.
+> **Status:** `🏗️ Under Development`
+Stay tuned for the digital journal of my journey into cybersecurity.
